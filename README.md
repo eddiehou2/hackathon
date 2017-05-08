@@ -7,7 +7,7 @@
 
 # Upcoming Changes
 1. Improve current code 
- * Clean up code to avoid unsanitized input and input checking
+&nbsp;* Clean up code to avoid unsanitized input and input checking
  * Move code into functions
  * Organize code into sub-sections
  * Add comments for current code
